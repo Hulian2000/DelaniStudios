@@ -28,3 +28,12 @@ h1,p{
   padding: 5%;
   text-align: center;
 }
+h1#w,p#w{
+  color: black;
+}
+.container-fluid{
+  padding: 30px;
+  text-align: center;
+}
+
+
