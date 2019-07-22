@@ -45,4 +45,13 @@ h1#w,p#w{
   background-size: cover;
   background-repeat: no-repeat;
 }
-
+input[type=text],input[type=email]{
+  background: transparent;
+  padding: 5px;
+  margin-left: 20%;
+}
+textarea{
+  background: transparent;
+  margin-left: 20%;
+  width: 50%;
+}
