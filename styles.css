@@ -12,10 +12,10 @@ h1#lp,p#lp{
   /* font-size: 70px; */
 }
 #logo{
-  padding-top;
+  padding-top: 0;
 }
 #Name{
-  padding-top;
+  padding-top: 0;
 }
 h1,p{
   text-align: center;
@@ -35,7 +35,11 @@ h1#w,p#w{
   padding: 30px;
   text-align: center;
 }
-.col-md-2{
+#portfolio{
+  padding: 10px;
+  text-align: center;
+}
+.col-md-2 img{
   width: 200px;
   margin: 20px;
   padding: 10px;
