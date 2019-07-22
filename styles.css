@@ -39,6 +39,10 @@ h1#w,p#w{
   width: 200px;
   margin: 20px;
   padding: 10px;
-  
+}
+.legged{
+  background-image: url('https://github.com/Hulian2000/DelaniStudios/blob/master/assets/backgrounds/c_image.jpg?raw=true');
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
