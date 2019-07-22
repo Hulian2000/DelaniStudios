@@ -49,6 +49,9 @@ h1#w,p#w{
   background-size: cover;
   background-repeat: no-repeat;
 }
+h1#p{
+  color: white;
+}
 input[type=text],input[type=email]{
   background: transparent;
   padding: 5px;
@@ -71,4 +74,5 @@ button{
 }
 #design,#development,#product{
   display: none;
+  color: black;
 }
