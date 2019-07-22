@@ -76,3 +76,15 @@ button{
   display: none;
   color: black;
 }
+#hide1,#hide2,#hide3,#hide4,#hide5,#hide6,#hide7,#hide8{
+  display:none;
+    color:brown;
+    background-color: beige;
+    opacity: 0.5;
+    position: absolute;
+    top:0px;
+    left:42px;
+    width:200px;
+    height:200px;
+   padding: 30%;
+}

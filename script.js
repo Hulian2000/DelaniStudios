@@ -34,3 +34,60 @@ $(document).ready(function(){
         $("#development").hide();
 });
 });
+//hover
+$(document).ready(function(){
+    $('#image1').hover(function(){
+        $("#hide1").show();
+    }).mouseleave(function(){
+        $("#hide1").hide();
+    });
+});
+$(document).ready(function(){
+    $('#image2').hover(function(){
+        $("#hide2").show();
+    }).mouseleave(function(){
+        $("#hide2").hide();
+    });
+});
+$(document).ready(function(){
+    $('#image3').hover(function(){
+        $("#hide3").show();
+    }).mouseleave(function(){
+        $("#hide3").hide();
+    });
+});
+$(document).ready(function(){
+    $('#image4').hover(function(){
+        $("#hide4").show();
+    }).mouseleave(function(){
+        $("#hide4").hide();
+    });
+});
+$(document).ready(function(){
+    $('#image5').hover(function(){
+        $("#hide5").show();
+    }).mouseleave(function(){
+        $("#hide5").hide();
+    });
+});
+$(document).ready(function(){
+    $('#image6').hover(function(){
+        $("#hide6").show();
+    }).mouseleave(function(){
+        $("#hide6").hide();
+    });
+});
+$(document).ready(function(){
+    $('#image7').hover(function(){
+        $("#hide7").show();
+    }).mouseleave(function(){
+        $("#hide7").hide();
+    });
+});
+$(document).ready(function(){
+    $('#image8').hover(function(){
+        $("#hide8").show();
+    }).mouseleave(function(){
+        $("#hide8").hide();
+    });
+});
