@@ -21,6 +21,9 @@ h1,p{
   text-align: center;
   color: white;
 }
+h1#about,p#about{
+  color: black !important;
+}
 .Services{
   background-image: url('https://github.com/Hulian2000/DelaniStudios/blob/master/assets/backgrounds/s_image.jpg?raw=true');
   background-size: cover; 
