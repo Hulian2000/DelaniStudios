@@ -16,4 +16,9 @@ This landing page consists of 7 sections
    <li>Social media section</li>
 </ol>
 
-## Setup/Installation Requirements
+## live link 
+https://Hulian2000.github.io/DelaniStudios
+## Contact Information
+ ## 0795273068
+## License
+MIT license.
