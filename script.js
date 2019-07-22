@@ -91,3 +91,16 @@ $(document).ready(function(){
         $("#hide8").hide();
     });
 });
+//form input
+$(document).ready(function(){
+    $('form').submit(function(){
+        var name = $('input#name').val();
+        var email = $('input#email').val();
+        var text = $('textarea#comment').val();
+        if ($('input#name').val() && $('input#email').val() && $('textarea#comment').val() !== ""){
+            alert(name+", we have recieved your email. Thanks for your response.");
+        } else {
+            alert("Please enter your name and email.");
+        }
+    });
+});
