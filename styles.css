@@ -69,3 +69,6 @@ button{
   text-align: center;
   padding: 18px;
 }
+#design,#development,#product{
+  display: none;
+}
