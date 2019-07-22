@@ -23,11 +23,14 @@ $(document).ready(function(){
     });
 });
 $(document).ready(function(){
-    $("#icon-2").click(function(){
-        $("#product").show();
-        $("#icon-2").hide();
+    $("#product").click(function(){
+        $("#icon-3").show();
+        $("#product").hide();
 }); 
+});
 $(document).ready(function(){
     $("#development").click(function(){
         $("#icon-2").show();
         $("#development").hide();
+});
+});
